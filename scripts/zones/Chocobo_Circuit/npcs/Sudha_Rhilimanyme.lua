@@ -1,6 +1,6 @@
 -----------------------------------
 -- Area: Chocobo_Circuit
--- NPC: Sudha Rhilimanyme
+-- NPC: Sudha_Rhilimanyme
 -- !pos -264.944 -4.000 -451.760 70
 -----------------------------------
 local entity = {}

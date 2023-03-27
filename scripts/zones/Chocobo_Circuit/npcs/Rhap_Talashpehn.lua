@@ -1,6 +1,6 @@
 -----------------------------------
 -- Area: Chocobo_Circuit
--- NPC: Rhap Talashpehn
+-- NPC: Rhap_Talashpehn
 -- !pos -375.043 -4.000 -508.225 70
 -----------------------------------
 local entity = {}

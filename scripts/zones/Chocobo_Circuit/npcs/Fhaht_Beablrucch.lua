@@ -1,6 +1,6 @@
 -----------------------------------
 -- Area: Chocobo_Circuit
--- NPC: Fhaht Beablrucch
+-- NPC: Fhaht_Beablrucch
 -- !pos -311.756 -4.000 -419.103 70
 -----------------------------------
 local entity = {}
