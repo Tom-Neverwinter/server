@@ -1,7 +1,7 @@
 -----------------------------------
 -- Area: Chocobo_Circuit
--- NPC: Mercedes
--- !pos -363.256 0.004 -533.551 70
+-- NPC: Linus
+-- !pos -270.544 -4.000 -508.954 70
 -----------------------------------
 local entity = {}
 
@@ -9,7 +9,7 @@ entity.onTrade = function(player, npc, trade)
 end
 
 entity.onTrigger = function(player, npc)
-    player:startEvent(343)
+    player:startEvent(267, 271, 275, 279, 280, 281, 282, 283)
 end
 
 entity.onEventUpdate = function(player, csid, option)
